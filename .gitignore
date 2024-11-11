@@ -1,0 +1,7 @@
+ise_project/frontend/node_modules
+ise_project/frontend/dist
+ise_project/frontend/dist-ssr
+ise_project/frontend/package-lock.json
+ise_project/frontend/yarn.local
+ise_project/.env
+Recording*
